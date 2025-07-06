@@ -24,6 +24,42 @@ ___Negrito e Italico___
 1. Lista1
 2. Lista2
    1. Sublista
+
+<!-- Links -->
+
+[Link DescomplicaFacu](https://descomplica.worka.love/perfil/adalberto-carlos-de-oliveira-junior-b874-4926)
+
+[Música Preferida](https://www.youtube.com/watch?v=LGR_xj961D4)
+
+[Foto](https://www.wikiparques.org/wiki/Arquivo:2017935485904.jpg)
+
+![Foto](https://www.wikiparques.org/wiki/Arquivo:2017935485904.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
 <!--
 **KalecGod/KalecGod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
