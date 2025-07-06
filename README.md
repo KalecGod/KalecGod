@@ -33,6 +33,22 @@ ___Negrito e Italico___
 
 [Foto](https://www.wikiparques.org/wiki/Arquivo:2017935485904.jpg)
 
+<!-- Código -->
+
+`System.out.printf()`
+
+```
+  Var scan = new Scanner(System.in);
+    int n = scan.nextInt();
+    int numero = 0;
+    Array [] vec = new vector[n]
+
+
+     for(int i = 0 ;i<n;i++){
+
+  vec[i] = scan.nextInt();
+
+} ```
 
 
 
