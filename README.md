@@ -52,6 +52,24 @@ ___Negrito e Italico___
 
 ```
 
+<!-- Citações -->
+
+>Texto de Citações
+
+<!-- Tabela -->
+
+| Cabeçalhos 1 | Cabeçalhos 2 |
+| -------------- | -------------- |
+| Cabeçalhos 3 | Cabeçalhos 4 |
+| Cabeçalhos 1 | Cabeçalhos 2 |
+
+<!-- Checkout -->
+
+- [X] Tarefa 1
+- [ ] Tafera 2
+
+
+
 
 
 
