@@ -48,9 +48,9 @@ ___Negrito e Italico___
 
   vec[i] = scan.nextInt();
 
-} ```
+} 
 
-
+```
 
 
 
