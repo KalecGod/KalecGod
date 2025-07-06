@@ -23,7 +23,7 @@ ___Negrito e Italico___
 
 1. Lista1
 2. Lista2
-    1. Sublista 
+   1. Sublista
 <!--
 **KalecGod/KalecGod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
