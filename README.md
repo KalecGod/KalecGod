@@ -9,6 +9,21 @@
 ##### Titulo 5
 ###### Titulo 6
 
+<!-- Negrito ... -->
+
+*Italico* and _Italico_
+**Negrito** and __Negrito__
+___Negrito e Italico___
+
+<!-- Lista e Sublista -->
+
+- lista1
+- lista2
+  - Sublista
+
+1. Lista1
+2. Lista2
+    1. Sublista 
 <!--
 **KalecGod/KalecGod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
