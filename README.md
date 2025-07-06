@@ -33,6 +33,8 @@ ___Negrito e Italico___
 
 [Foto](https://www.wikiparques.org/wiki/Arquivo:2017935485904.jpg)
 
+[linkedin](https://www.linkedin.com/in/adalberto-oliveira-4675b8206)
+
 <!-- Código -->
 
 `System.out.printf()`
