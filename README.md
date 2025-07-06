@@ -33,7 +33,7 @@ ___Negrito e Italico___
 
 [Foto](https://www.wikiparques.org/wiki/Arquivo:2017935485904.jpg)
 
-![Foto](https://www.wikiparques.org/wiki/Arquivo:2017935485904.jpg)
+
 
 
 
