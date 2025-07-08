@@ -1,4 +1,8 @@
-<center><h2>Bem Vindo ao Meu pequeno Mundo👋</h2></center> Olá 👋
+<center><h2>Bem Vindo ao Meu pequeno Mundo👋</h2></center> 
+
+![Minha imagem](https://i.redd.it/2ol37jbas6se1.gif)
+
+#  Olá 👋
 
 <!-- Cabeçalhos -->
 
@@ -9,7 +13,6 @@
 ##### Titulo 5
 ###### Titulo 6
 
-![Minha imagem](https://media.tenor.com/0XsDOR0-6yMAAAAi/gojo-satoru-satoru-gojo.gif)
 
 
 
