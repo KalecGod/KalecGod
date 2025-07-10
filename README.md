@@ -1,119 +1,49 @@
-<center><h2>Bem Vindo ao Meu pequeno Mundo👋</h2></center> 
+<center><h2>Bem-vindo ao meu pequeno mundo 👋</h2></center>
 
 ![Minha imagem](https://i.redd.it/2ol37jbas6se1.gif)
 
-#  Olá 👋
+---
 
-<!-- Cabeçalhos -->
+<br>
 
-# Titulo 1
-## Titulo 2
-### Titulo 3
-#### Titulo 4
-##### Titulo 5
-###### Titulo 6
+# 👨‍💻 Sobre Mim
 
+Olá! Me chamo **Adalberto Carlos** e sou estudante de **Análise e Desenvolvimento de Sistemas**.  
+Atualmente trabalho na **PixFibra Telecom**, na área de suporte técnico como **Auxiliar Técnico**.  
+Sou apaixonado por tecnologia, redes e programação, sempre buscando aprender e evoluir na área.
 
+---
 
+# 🛠️ Habilidades
 
-<!-- Negrito ... -->
+- 💻 Lógica de Programação
+- 🧠 Estrutura de Dados (em aprendizado)
+- 🌐 Redes de Computadores
+- 🖥️ Suporte Técnico e Manutenção
+- 📡 Conhecimentos básicos em Redes FTTH
+- ☕ Java (iniciante)
+- 🌐 JavaScript (iniciante)
 
-*Italico* and _Italico_
-**Negrito** and __Negrito__
-___Negrito e Italico___
+---
 
-<!-- Lista e Sublista -->
+# 📂 Projetos
 
-- lista1
-- lista2
-  - Sublista
-
-1. Lista1
-2. Lista2
-   1. Sublista
-
-<!-- Links -->
-
-[Link DescomplicaFacu](https://descomplica.worka.love/perfil/adalberto-carlos-de-oliveira-junior-b874-4926)
-
-[Música Preferida](https://www.youtube.com/watch?v=LGR_xj961D4)
-
-[Foto](https://www.wikiparques.org/wiki/Arquivo:2017935485904.jpg)
-
-[linkedin](https://www.linkedin.com/in/adalberto-oliveira-4675b8206)
-
-<!-- Código -->
-
-`System.out.printf()`
-
-```
-  Var scan = new Scanner(System.in);
-    int n = scan.nextInt();
-    int numero = 0;
-    Array [] vec = new vector[n]
+| Nome do Projeto        | Descrição                              | Tecnologias         |
+|------------------------|------------------------------------------|---------------------|
+| Gerenciador de Alunos  | Sistema simples de cadastro e listagem   | Java, Console       |
+| Monitor de Rede        | Verifica conectividade em rede local     | Bash, Windows CMD   |
 
 
-     for(int i = 0 ;i<n;i++){
+> *Em breve mais projetos... sempre codando!*
 
-  vec[i] = scan.nextInt();
+---
 
-} 
+# 📬 Contato
 
-```
+- 📧 E-mail: [adalbertocarlos@email.com](mailto:adalbertocarlos@email.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/adalberto-oliveira-4675b8206/](https://www.linkedin.com/in/adalberto-oliveira-4675b8206/)
+- 🖥️ GitHub: [github.com/KalecGod](https://github.com/KalecGod)
 
-<!-- Citações -->
+---
 
->Texto de Citações
-
-<!-- Tabela -->
-
-| Cabeçalhos 1 | Cabeçalhos 2 |
-| -------------- | -------------- |
-| Cabeçalhos 3 | Cabeçalhos 4 |
-| Cabeçalhos 1 | Cabeçalhos 2 |
-
-<!-- Checkout -->
-
-- [X] Tarefa 1
-- [ ] Tafera 2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-<!--
-**KalecGod/KalecGod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<center><sub>“A tecnologia move o mundo.” – Steve Jobs</sub></center>
