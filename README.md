@@ -8,9 +8,10 @@
 
 # 👨‍💻 Sobre Mim
 
-Olá! Me chamo **Adalberto Carlos** e sou estudante de **Análise e Desenvolvimento de Sistemas**.  
+Olá! Me chamo **Adalberto Carlos** e sou estudante de **Análise e Desenvolvimento de Sistemas** pela **Faculdade Descomplica**.  
 Atualmente trabalho na **PixFibra Telecom**, na área de suporte técnico como **Auxiliar Técnico**.  
 Sou apaixonado por tecnologia, redes e programação, sempre buscando aprender e evoluir na área.
+
 
 ---
 
