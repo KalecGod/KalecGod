@@ -28,7 +28,7 @@ Sou apaixonado por tecnologia, redes e programação, sempre buscando aprender e
 
 ---
 
-# Certificados 
+# 📚 Certificados 
 
 | **CURSOS** | **CERTIFICADOS** |
 |------------------|------------------|
