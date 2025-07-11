@@ -28,6 +28,16 @@ Sou apaixonado por tecnologia, redes e programação, sempre buscando aprender e
 
 ---
 
+# Certificados 
+
+| **CURSOS** | **CERTIFICADOS** |
+|------------------|------------------|
+|Formação Lógica de Programação| [Certificado](https://hermes.dio.me/certificates/Q6WIFWEW.pdf) |
+| PROGRAMMER | [Certificado](https://certificados.descomplica.com.br/graduacao/145690a2857a40e5bc179c78ba7cf41f4020877a4b6a309de7bf4a95bbb5dbfc) |
+
+
+---
+
 # 📂 Projetos
 
 | Nome do Projeto        | Descrição                              | Tecnologias         |
