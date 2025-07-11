@@ -50,4 +50,3 @@ Sou apaixonado por tecnologia, redes e programação, sempre buscando aprender e
 
 <center><sub>“A tecnologia move o mundo.” – Steve Jobs</sub></center>
 
->>>>>>> d0f6276adbd0d545bd0214f87dc04852e88e88f2
