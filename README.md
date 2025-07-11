@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-=======
-<center><h2>Bem-vindo ao meu pequeno mundo 👋</h2></center>
->>>>>>> d0f6276adbd0d545bd0214f87dc04852e88e88f2
 
-<<<<<<< HEAD
-=======
+<center><h2>Bem-vindo ao meu pequeno mundo 👋</h2></center>
+
 ![Minha imagem](https://i.redd.it/2ol37jbas6se1.gif)
 
 ---
