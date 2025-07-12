@@ -52,7 +52,7 @@ Sou apaixonado por tecnologia, redes e programação, sempre buscando aprender e
 
 # 📬 Contato
 
-- 📧 E-mail: [adalbertocarlos@email.com](mailto:adalbertocarlos@email.com)
+- 📧 E-mail: [adalbertomc123@gmail.com](mailto:adalbertomc123@gmail.com)
 - 💼 LinkedIn: [https://www.linkedin.com/in/adalberto-oliveira-4675b8206](https://www.linkedin.com/in/adalberto-oliveira-4675b8206/)
 
 - 💼 Workalove: [https://descomplica.worka.love/perfil/adalberto-carlos-de-oliveira-junior-b874-4926](https://descomplica.worka.love/perfil/adalberto-carlos-de-oliveira-junior-b874-4926   
