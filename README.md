@@ -34,6 +34,7 @@ Sou apaixonado por tecnologia, redes e programação, sempre buscando aprender e
 |------------------|------------------|
 |Formação Lógica de Programação| [Certificado](https://hermes.dio.me/certificates/Q6WIFWEW.pdf) |
 | PROGRAMMER | [Certificado](https://certificados.descomplica.com.br/graduacao/145690a2857a40e5bc179c78ba7cf41f4020877a4b6a309de7bf4a95bbb5dbfc) |
+| Formação Github Certification | [Certificado](https://hermes.dio.me/certificates/GYKK1KAW.pdf)
 
 
 ---
